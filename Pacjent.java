@@ -6,6 +6,7 @@ public class Pacjent {
 	int pesel;
 	boolean plec;
 	int rodzaj_ubezpieczenia;
+	Badanie wynik;
 	
 	public Pacjent(String i, String n, int p, boolean pl, int r) {
 		this.imie = i;

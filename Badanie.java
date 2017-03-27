@@ -5,7 +5,7 @@ public class Badanie {
 	Date data;
 	boolean param1;		//obecność mutacji „5382insC"
 	boolean param2;		//obecność mutacji „C61G,300T>G”
-	int poziom_antyg;	//pozmiom antygenu CA 125
+	int poziom_antyg;	//poziom antygenu CA 125
 	int wynik;
 	
 	Badanie(boolean p1, boolean p2, int p_a) {
