@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Thu Feb 14 19:23:22 CET 2019:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.13.1.1 - (1765088): instance a816c00e-0168-ed3f-b4b3-0000068b4e48 
+on database directory /home/kasia/Dokumenty/Studia/OSM/OSM_projekt2/DawkowanieLekow with class loader sun.misc.Launcher$AppClassLoader@3d4eac69 
+Loaded from file:/home/kasia/Dokumenty/Studia/OSM/OSM_projekt2/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_191-8u191-b12-2ubuntu0.16.04.1-b12
+user.dir=/home/kasia/Dokumenty/Studia/OSM/OSM_projekt2
+os.name=Linux
+os.arch=amd64
+os.version=4.15.0-43-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
